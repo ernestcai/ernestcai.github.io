@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 05 Mar 2018 23:26:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Mar 2018 02:35:19 +0800</lastBuildDate>
     
 	<atom:link href="https://www.jianxiong-cai.net/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,38 @@
     <item>
       <title>ABB-STAR Joint Project</title>
       <link>https://www.jianxiong-cai.net/project/star-abb/</link>
-      <pubDate>Mon, 05 Mar 2018 23:26:23 +0800</pubDate>
+      <pubDate>Tue, 06 Mar 2018 02:35:19 +0800</pubDate>
       
       <guid>https://www.jianxiong-cai.net/project/star-abb/</guid>
       <description>With autonomous ground vehicle (ClearapthPath Husky) with a dual-arm manipulator (ABB Yumi), we can perform much more complex tasks. In this project, we are exploring what we can do when combining them. In the end, we successfully built a robot that can perform auto-navigation to press target button.
 In this project, I mainly focus on SLAM and auto-navigation. For more details, please refer to the project page @ STAR Lab , with cool demo video there :)</description>
+    </item>
+    
+    <item>
+      <title>Gambody</title>
+      <link>https://www.jianxiong-cai.net/project/gambody/</link>
+      <pubDate>Tue, 06 Mar 2018 02:33:19 +0800</pubDate>
+      
+      <guid>https://www.jianxiong-cai.net/project/gambody/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Panorama</title>
+      <link>https://www.jianxiong-cai.net/project/3d-panorama/</link>
+      <pubDate>Tue, 06 Mar 2018 02:20:00 +0800</pubDate>
+      
+      <guid>https://www.jianxiong-cai.net/project/3d-panorama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System-call level Sandbox</title>
+      <link>https://www.jianxiong-cai.net/project/system-sandbox/</link>
+      <pubDate>Tue, 06 Mar 2018 02:14:43 +0800</pubDate>
+      
+      <guid>https://www.jianxiong-cai.net/project/system-sandbox/</guid>
+      <description></description>
     </item>
     
   </channel>

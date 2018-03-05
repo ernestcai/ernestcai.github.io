@@ -13,7 +13,7 @@
     <item>
       <title>ABB-STAR Joint Project</title>
       <link>https://www.jianxiong-cai.net/project/star-abb/</link>
-      <pubDate>Mon, 05 Mar 2018 23:26:23 +0800</pubDate>
+      <pubDate>Tue, 06 Mar 2018 02:35:19 +0800</pubDate>
       
       <guid>https://www.jianxiong-cai.net/project/star-abb/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://www.jianxiong-cai.net/img/star-abb-big.png&#34; alt=&#34;ABB-STAR Joint Project&#34; /&gt;
@@ -23,6 +23,33 @@ For more details, please refer to the &lt;a href=&#34;https://robotics.shanghait
 
 &lt;p&gt;Acknowledgment: Part of this project also serve as the course project of Robotics Class, FALL 2017. Thanks to ABB Group.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Gambody</title>
+      <link>https://www.jianxiong-cai.net/project/gambody/</link>
+      <pubDate>Tue, 06 Mar 2018 02:33:19 +0800</pubDate>
+      
+      <guid>https://www.jianxiong-cai.net/project/gambody/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Panorama</title>
+      <link>https://www.jianxiong-cai.net/project/3d-panorama/</link>
+      <pubDate>Tue, 06 Mar 2018 02:20:00 +0800</pubDate>
+      
+      <guid>https://www.jianxiong-cai.net/project/3d-panorama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System-call level Sandbox</title>
+      <link>https://www.jianxiong-cai.net/project/system-sandbox/</link>
+      <pubDate>Tue, 06 Mar 2018 02:14:43 +0800</pubDate>
+      
+      <guid>https://www.jianxiong-cai.net/project/system-sandbox/</guid>
+      <description></description>
     </item>
     
   </channel>
