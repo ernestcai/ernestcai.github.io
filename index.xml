@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jianxiong Cai | Profile on Jianxiong Cai | Profile</title>
-    <link>https://www.jianxiong-cai.net/</link>
+    <link>https://ernestcai.github.io/</link>
     <description>Recent content in Jianxiong Cai | Profile on Jianxiong Cai | Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,11 +12,11 @@
     
     <item>
       <title>ABB-STAR Joint Project</title>
-      <link>https://www.jianxiong-cai.net/project/star-abb/</link>
+      <link>https://ernestcai.github.io/project/star-abb/</link>
       <pubDate>Tue, 06 Mar 2018 02:35:19 +0800</pubDate>
       
-      <guid>https://www.jianxiong-cai.net/project/star-abb/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.jianxiong-cai.net/img/star-abb-big.png&#34; alt=&#34;ABB-STAR Joint Project&#34; /&gt;
+      <guid>https://ernestcai.github.io/project/star-abb/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ernestcai.github.io/img/star-abb-big.png&#34; alt=&#34;ABB-STAR Joint Project&#34; /&gt;
 With autonomous ground vehicle (ClearapthPath Husky) with a dual-arm manipulator (ABB Yumi), we can perform much more complex tasks. In this project, we are exploring what we can do when combining them. In the end, we successfully built a robot that can perform auto-navigation to press target button.&lt;br&gt;
 In this project, I mainly focus on SLAM and auto-navigation.  &lt;br&gt;
 For more details, please refer to the &lt;a href=&#34;https://robotics.shanghaitech.edu.cn/node/204&#34; target=&#34;_blank&#34;&gt;project page&lt;/a&gt; @ STAR Lab , with cool demo video there :)&lt;/p&gt;
@@ -27,28 +27,28 @@ For more details, please refer to the &lt;a href=&#34;https://robotics.shanghait
     
     <item>
       <title>Gambody</title>
-      <link>https://www.jianxiong-cai.net/project/gambody/</link>
+      <link>https://ernestcai.github.io/project/gambody/</link>
       <pubDate>Tue, 06 Mar 2018 02:33:19 +0800</pubDate>
       
-      <guid>https://www.jianxiong-cai.net/project/gambody/</guid>
+      <guid>https://ernestcai.github.io/project/gambody/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D Panorama</title>
-      <link>https://www.jianxiong-cai.net/project/3d-panorama/</link>
+      <link>https://ernestcai.github.io/project/3d-panorama/</link>
       <pubDate>Tue, 06 Mar 2018 02:20:00 +0800</pubDate>
       
-      <guid>https://www.jianxiong-cai.net/project/3d-panorama/</guid>
+      <guid>https://ernestcai.github.io/project/3d-panorama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>System-call level Sandbox</title>
-      <link>https://www.jianxiong-cai.net/project/system-sandbox/</link>
+      <link>https://ernestcai.github.io/project/system-sandbox/</link>
       <pubDate>Tue, 06 Mar 2018 02:14:43 +0800</pubDate>
       
-      <guid>https://www.jianxiong-cai.net/project/system-sandbox/</guid>
+      <guid>https://ernestcai.github.io/project/system-sandbox/</guid>
       <description></description>
     </item>
     

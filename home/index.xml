@@ -2,59 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Jianxiong Cai | Profile</title>
-    <link>https://www.jianxiong-cai.net/home/</link>
+    <link>https://ernestcai.github.io/home/</link>
     <description>Recent content in Homes on Jianxiong Cai | Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.jianxiong-cai.net/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ernestcai.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://www.jianxiong-cai.net/home/about/</link>
+      <link>https://ernestcai.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.jianxiong-cai.net/home/about/</guid>
+      <guid>https://ernestcai.github.io/home/about/</guid>
       <description>Biography Hi, I&amp;rsquo;m an third-year undergraduate student at ShanghaiTech University. Currently I am working at ShanghaiTech Automation and Robotics Lab (STAR Lab), under the supervision of Prof. Sören Schwertfeger. My primarily research interest focuses on SLAM and auto-navigation (including Computer Vision, Lidar, etc).
 During these years, I had several opportunities to join in a number of fascinating projects in the field of Computer Science, especially in Robotics. Hope you would enjoy viewing them same as when I was working on them.</description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://www.jianxiong-cai.net/home/projects/</link>
+      <title>CV</title>
+      <link>https://ernestcai.github.io/home/cv/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.jianxiong-cai.net/home/projects/</guid>
+      <guid>https://ernestcai.github.io/home/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ernestcai.github.io/home/projects/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernestcai.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching Assistant</title>
-      <link>https://www.jianxiong-cai.net/home/teaching/</link>
+      <link>https://ernestcai.github.io/home/teaching/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.jianxiong-cai.net/home/teaching/</guid>
+      <guid>https://ernestcai.github.io/home/teaching/</guid>
       <description>I am teaching assistant for following courses:   SI100B: Introduction to Information Science and Technology, Spring 2017   SI100C: Introduction to Computer Science, FALL 2017   CS110: Computer Architecture, Spring 2018</description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://www.jianxiong-cai.net/home/tags/</link>
+      <link>https://ernestcai.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
-      <guid>https://www.jianxiong-cai.net/home/tags/</guid>
+      <guid>https://ernestcai.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://www.jianxiong-cai.net/home/contact/</link>
+      <link>https://ernestcai.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.jianxiong-cai.net/home/contact/</guid>
+      <guid>https://ernestcai.github.io/home/contact/</guid>
       <description></description>
     </item>
     
